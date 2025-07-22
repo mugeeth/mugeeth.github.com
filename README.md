@@ -107,3 +107,6 @@ margin: 10px 0;
 <p>I’m a Big Data enthusiast with hands-on experience in data analytics, distributed systems, and
 cloud tools. Passionate about solving real-world problems with data-driven solutions.</p>
 </section>
+</body>
+</html>
+
